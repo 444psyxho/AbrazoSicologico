@@ -37,6 +37,8 @@ body {
     background-color: red;
 }
 
+
+
 @keyframes loading {
     0%{
         width: 0;
@@ -54,4 +56,11 @@ h1 {
 p {
     font-size: 1.3em;
     font-weight: bold;
+}
+
+.heart {
+    position: 90px;
+    width: 90px;
+    height: 95px;
+    top: -155px;
 }
